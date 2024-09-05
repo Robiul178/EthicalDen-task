@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div className="max-w-full">
             <div
-                className="relative h-64 w-full bg-cover bg-center bg-[url('/src/assets/happyGirl.jpg')]"
+                className="relative  h-64 w-full bg-cover bg-center bg-[url('/src/assets/happyGirl.jpg')]"
             >
 
                 <div className="absolute inset-0 bg-black bg-opacity-70"></div>

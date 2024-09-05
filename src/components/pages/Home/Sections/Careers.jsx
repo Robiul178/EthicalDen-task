@@ -7,7 +7,6 @@ const Careers = () => {
 
             <div className='w-[558px]'>
                 <h2 className="text-5xl font-bold">
-
                     <span className="text-[#F79B2C] "> Careers & </span>Industry
                 </h2>
                 <p className='py-6 leading-6'>
