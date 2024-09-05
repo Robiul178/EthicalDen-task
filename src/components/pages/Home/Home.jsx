@@ -3,6 +3,7 @@ import Banner from "./Sections/Banner";
 import Careers from "./Sections/Careers";
 import CostOfEducation from "./Sections/CostOfEducation";
 import Glance from "./Sections/Glance";
+import Speak from "./Sections/Speak";
 import StudentSay from "./Sections/StudentSay";
 import Study from "./Sections/Study";
 import University from "./Sections/University";
@@ -23,6 +24,7 @@ const Home = () => {
                 <Glance />
                 <StudentSay />
             </div>
+            <Speak />
         </div>
     );
 };
